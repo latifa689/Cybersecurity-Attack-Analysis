@@ -16,7 +16,7 @@ This project establishes a foundational framework for analyzing cyber attacks
 and exploring appropriate defensive measures based on cybersecurity best
 practices.
 
-##Case Study: Cisco Edge Devices Exploitation (2025)
+## Case Study: Cisco Edge Devices Exploitation (2025)
 
 In 2025, a large-scale exploitation campaign targeted Cisco edge devices,
 Including ASA, Firepower Threat Defense (FTD), IOS, and IOS XE platforms.
