@@ -14,4 +14,4 @@ Attacks and Defence Architecture
         Servers/AD/ISE          [Monitoring & Control]            Devices & Users
 
 
-</"img src="images/"attack.gif"width="700>
+</"img src="Cyber-Attack-Analysis/"attack.png"width="600>
