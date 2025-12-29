@@ -12,3 +12,6 @@ Attacks and Defence Architecture
                 :                                                  :
       [Internet Network ]           <---------->                 [ User Network ]
         Servers/AD/ISE          [Monitoring & Control]            Devices & Users
+
+
+</"img src="images/"attack.png"width="700>
