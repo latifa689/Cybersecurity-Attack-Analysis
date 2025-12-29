@@ -1,5 +1,6 @@
 Attacks and Defence Architecture
 
+<img align='right' src="attack.png" width="500">
 
 ## 🛡️ Attack and Defense Architecture
 
@@ -17,7 +18,7 @@ Overall, this architecture emphasizes **defense-in-depth**, combining:
 to enhance organizational resilience against sophisticated cyber attacks.
 
 
-<img align='right' src="attack.png" width="500">
+
 
 
 
