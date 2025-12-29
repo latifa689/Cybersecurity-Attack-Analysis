@@ -1,31 +1,22 @@
-# Cybersecurity-Attack-Analysis
-Cybersecurity Attack Analysis Project
 # Cybersecurity Attack Analysis 🔐
 
-This repository provides a structured analysis of a cybersecurity attack,
-focusing on attack methodology, impact assessment, and mitigation strategies
-based on the Defense in Depth security model.
-
-## Project Objectives
-- Understand how cyber attacks are conducted
-- Analyze the impact on networks and systems
-- Demonstrate effective mitigation techniques
-- Apply Defense in Depth principles
+This repository provides a detailed analysis of a 2025 Cisco edge device exploitation campaign.
+It includes attack methodology, vulnerability analysis, operational impact, and mitigation strategies.
 
 ## Repository Structure
-- Attack Overview
-- Attack Methodology
-- Impact Assessment
-- Mitigation and Defense
-- Network Security Diagram
-- References
-
-## Technologies & Concepts
-- Network Security
-- Defense in Depth
-- Threat Analysis
-- Cybersecurity Best Practices
+- **Attack-Overview.md** → Project introduction and case study
+- **Vulnerability-Analysis.md** → Detailed CVE analysis
+- **Impact-Assessment.md** → Risk and impact assessment
+- **Attack-Methodology.md** → Attack chain and techniques
+- **Mitigation-and-Defense.md** → Hardening recommendations
+- **Attack-Defense-Architecture.md** → Visual architecture diagram
+- **Conclusion.md** → Lessons learned
+- **Recommendations.md** → Summary of key recommendations
+- **Network-Diagram/defence-in-depth.png** → Defense In Depth diagram
+- **Presentation/Cyber-Attack-Presentation.pptx** → PowerPoint summary
 
 ## Disclaimer
-This project is for educational purposes only.
-No real systems or sensitive data are involved
+This project is for **educational purposes only**.
+No real sensitive data or systems were accessed or compromised.
+
+
