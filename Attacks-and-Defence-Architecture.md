@@ -1,5 +1,7 @@
 Attacks and Defence Architecture
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p> <em> 
+
 ```javascript
 
 [ External Attacker ]  ----------- [ Firewell ] --------- [ Internet ] ------ [ Secure VPN Channel  ]
@@ -14,5 +16,5 @@ Attacks and Defence Architecture
         Servers/AD/ISE          [Monitoring & Control]            Devices & Users
 
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p> <em> 
+
 ``` </"img src="Cybersecurity-Attack-Analysis/attack.png" width="600>
