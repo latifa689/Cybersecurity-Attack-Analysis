@@ -21,6 +21,6 @@ This project is for **educational purposes only**.
 No real sensitive data or systems were accessed or compromised.
 
 git add -A
-git commit -m "Rename folder README to 1_README"
+git commit -m "Rename.md folder README to 1_README.md"
 git push
 
