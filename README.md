@@ -20,6 +20,6 @@ It includes attack methodology, vulnerability analysis, operational impact, and 
 This project is for **educational purposes only**.
 No real sensitive data or systems were accessed or compromised.
 
-git commit "Rename.md folder README to 1_README.md"
-git push
+git mv README.md 1_README.md
+
 
